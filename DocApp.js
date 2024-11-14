@@ -45,3 +45,5 @@ const DocApp = {
 // Erstelle und mounte die App
 const app1 = Vue.createApp(DocApp);
 app1.mount('#app1');
+
+
